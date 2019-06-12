@@ -3752,7 +3752,7 @@ body {
   z-index: 0;
   -webkit-animation-duration: 30s !important;
   animation-duration: 30s;
-  background-image: url("../../../assets/images/background5.jpg");
+  background-image: url("../../../assets/images/mbr-1-1920x1440.jpg");
   -webkit-animation: scroll-wrapper linear infinite;
   -moz-animation: scroll-wrapper linear infinite;
   -o-animation: scroll-wrapper linear infinite;
@@ -3877,61 +3877,6 @@ body {
   .cid-rt9zjviFhM .container-fluid {
     padding: 0 1rem;
   }
-}
-.cid-rsVI4FfvcZ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: #ffffff;
-}
-.cid-rsVI4FfvcZ .media-container-row {
-  -webkit-align-items: flex-start;
-  align-items: flex-start;
-}
-.cid-rsVI4FfvcZ .list-group-item {
-  padding: .5rem 2rem;
-}
-.cid-rsVI4FfvcZ .plan {
-  background: #5a31fb;
-  position: relative;
-  max-width: 300px;
-  padding-right: 0;
-  padding-left: 0;
-  background: linear-gradient(135deg, #5a31fb 0%, #a38dfd 100%);
-}
-.cid-rsVI4FfvcZ .plan .plan-title {
-  margin-left: 3rem;
-  margin-right: 3rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  border-bottom-left-radius: 3px;
-  border-bottom-right-radius: 3px;
-  background: #efefef;
-}
-.cid-rsVI4FfvcZ .plan .plan-price {
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 1rem;
-}
-.cid-rsVI4FfvcZ .plan .list-group-item {
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-  border: 0;
-  background: none;
-}
-.cid-rsVI4FfvcZ .plan .list-group-item:last-child::after {
-  display: none;
-}
-.cid-rsVI4FfvcZ .plan .mbr-section-btn a {
-  margin-bottom: 0;
-}
-.cid-rsVI4FfvcZ .plan .plan-body {
-  position: relative;
-  padding-bottom: 3rem;
-}
-.cid-rsVI4FfvcZ .plan-header {
-  padding-bottom: 1rem;
-  position: relative;
 }
 .cid-rt9yBTyAcX {
   padding-top: 0px;
@@ -6390,9 +6335,9 @@ body {
   }
 }
 .cid-rsVGmIt1lA {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #a38dfd;
 }
 .cid-rsVGmIt1lA .container-fluid {
   padding: 0 3rem;
